@@ -13,6 +13,8 @@ using Microsoft.Extensions.Logging;
 
 namespace Mission_A
 {
+    //Author: Fred Clingen
+    //Date: 20210824
     public class Startup
     {
         public Startup(IConfiguration configuration)
